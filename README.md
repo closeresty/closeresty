@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @closeresty
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on web designing.
 - 📫 How to reach me via facebook
 
