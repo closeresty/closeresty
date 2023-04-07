@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devres
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in vite react tailwind
+- 🌱 I’m currently learning all time
 - 💞️ I’m looking to collaborate on web designing.
 - 📫 How to reach me via facebook
 
