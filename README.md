@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devres
-- 👀 I’m interested in vite react tailwind
-- 🌱 I’m currently learning all time
+- 👀 I’m interested in Vite - React - Tailwind
+- 🌱 I’m currently learning Pug - Babel - Stylus - Nginx
 - 💞️ I’m looking to collaborate on web designing.
-- 📫 How to reach me via facebook
+- 📫 How to reach me via email.
 
 <!---
 closeresty/closeresty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
