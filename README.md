@@ -1,4 +1,4 @@
-👋 Hi, I’m @devres
+👋 Hi, I’m Devres
 👀 Deep Learning w/ [Vite - React - Tailwind] 
 🌱 Vanilla - Babel - Stylus - Php - Scss
 
