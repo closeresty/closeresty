@@ -1,6 +1,6 @@
 👋 Hi, I’m @devres
 👀 Deep Learning w/ [Vite - React - Tailwind] 
-🌱 Vanilla - Pug - Babel - Stylus - Php - Scss
+🌱 Vanilla - Babel - Stylus - Php - Scss
 
 
 
