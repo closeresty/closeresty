@@ -1,5 +1,6 @@
 👋 Hi, I’m Devres
 👀 Deep Learning w/ [Vite - React - Tailwind - Vanilla - Babel - Stylus - Php - Scss] 
+
 🌱 I'm studying at Colegio De Montalban 
 
 
