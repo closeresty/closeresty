@@ -1,12 +1,3 @@
-👋 Hi, I’m Devres
+# Hi there! I'm Resty ツ
 
-👀 Deep Learning w/ [Vite - React - Tailwind - Vanilla - Babel - Stylus - Php - Scss] 
-
-🌱 I'm studying at Colegio De Montalban 
-
-
-
-<!---
-closeresty/closeresty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=closeresty&show_icons=true&theme=radical)
