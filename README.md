@@ -1,4 +1,4 @@
-# Hi there! I'm Resty ツ
+# Hi there! I'm Resty also known as Devres ツ
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=closeresty&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=closeresty&layout=compact" />
 
