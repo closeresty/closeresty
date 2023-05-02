@@ -1,6 +1,7 @@
 # Hi there! I'm Resty also known as Devres ツ
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=closeresty&show_icons=true&theme=vue" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=closeresty&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -16,4 +17,4 @@
 ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
