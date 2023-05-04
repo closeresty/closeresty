@@ -18,9 +18,9 @@
 
 [My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
 
-[My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b/)
+[My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27/)
 
-[My Certificate of Javascript - The Complete introduction to JS](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27/)
+[My Certificate of Javascript - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b/)
 
 
 
