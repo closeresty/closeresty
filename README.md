@@ -1,5 +1,7 @@
 # Hi there! I'm Resty also known as Devres ツ
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=closeresty&show_icons=true&theme=vue" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=closeresty&layout=compact" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
