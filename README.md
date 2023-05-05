@@ -1,7 +1,6 @@
 # Hi there! I'm Resty also known as Devres ツ
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=closeresty&show_icons=true&theme=vue" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=closeresty&layout=compact" />
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -17,6 +16,8 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 [My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 [My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27/)
 
