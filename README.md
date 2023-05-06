@@ -32,6 +32,8 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [My Certificate of JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
 
+[My Certificate of HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-952cf333-1f75-4ca1-b5d9-ecd4530ef20e)
+
 [My Certificate of Learn JavaScript - For Beginners](https://www.udemy.com/certificate/UC-29f336a2-43f3-4493-b3dc-650096b0ceb7)
 
 ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
