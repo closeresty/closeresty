@@ -14,6 +14,9 @@
 
 
 
+
+
+
 The Academy's badges, which you can view at the link below, represent all the honors and achievements.
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
