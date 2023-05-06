@@ -32,7 +32,7 @@ The Academy's badges, which you can view at the link below, represent all the ho
 
 ![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
 
-[My Certificate of Introduction to HTML]([https://www.sololearn.com/certificates/CC-P1MLLQF0](https://www.sololearn.com/certificates/CC-7OVFNIK9))
+[My Certificate of Introduction to HTML](https://www.sololearn.com/certificates/CC-7OVFNIK9)
 
 [My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
 
