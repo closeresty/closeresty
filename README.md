@@ -13,6 +13,9 @@
 
 
 
+
+The Badges of Academy with link that you may see below all the honors and achievements.
+
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 [My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
@@ -27,6 +30,9 @@
 
 [My Certificate of Learn JavaScript - For Beginners](https://www.udemy.com/certificate/UC-29f336a2-43f3-4493-b3dc-650096b0ceb7)
 
+![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
+
+[My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
 
 
 
