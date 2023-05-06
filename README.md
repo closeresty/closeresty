@@ -32,6 +32,8 @@ The Academy's badges, which you can view at the link below, represent all the ho
 
 [My Certificate of Introduction to HTML](https://www.sololearn.com/certificates/CC-7OVFNIK9)
 
+[My Certificate of Introduction to CSS](https://www.sololearn.com/certificates/CC-KYK3BZKO)
+
 [My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
 
 
