@@ -19,9 +19,13 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-[My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27/)
+[My Certificate of Computer Networks Fundamentals](https://www.udemy.com/certificate/UC-bd3d3705-f028-4906-897d-7b6f5872f8a2)
 
-[My Certificate of Javascript - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b/)
+[My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27)
+
+[My Certificate of Javascript - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
+
+[My Certificate of Learn JavaScript - For Beginners](https://www.udemy.com/certificate/UC-29f336a2-43f3-4493-b3dc-650096b0ceb7)
 
 
 
