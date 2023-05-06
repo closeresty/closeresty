@@ -12,7 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 _____________________________________________________________________________________________
-The Academy's badges, which you can view at the link below, represent all the honors and achievements.
+Explore the depths of my achievements and the heights of my honors by clicking on the links below each badge.
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
