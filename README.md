@@ -41,7 +41,7 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [[Hackerrank] My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
 
-![Solo Learn](https://img.shields.io/badge/Sololearn-f2cf41?style=for-the-badge&logo=Sololearn)
+![Solo Learn](https://img.shields.io/badge/Sololearn-f0c259?style=for-the-badge&logo=Sololearn)
 
 [[Solo Learn] My Certificate of Introduction to HTML](https://www.sololearn.com/certificates/CC-7OVFNIK9)
 
