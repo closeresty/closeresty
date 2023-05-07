@@ -19,9 +19,9 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 
 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) [[Coursera] My Certificate of Develop a Company Website with Wix](https://www.coursera.org/account/accomplishments/verify/UU2BAAZNHTXE)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
 
-
+[[Coursera] My Certificate of Develop a Company Website with Wix](https://www.coursera.org/account/accomplishments/verify/UU2BAAZNHTXE)
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
