@@ -18,36 +18,37 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
-[My Certificate of Develop a Company Website with Wix](https://www.coursera.org/account/accomplishments/verify/UU2BAAZNHTXE)
+[[Coursera] My Certificate of Develop a Company Website with Wix](https://www.coursera.org/account/accomplishments/verify/UU2BAAZNHTXE)
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-[My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
+[[Freecodecamp] My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-[My Certificate of Computer Networks Fundamentals](https://www.udemy.com/certificate/UC-bd3d3705-f028-4906-897d-7b6f5872f8a2)
+[[Udemy] My Certificate of Computer Networks Fundamentals](https://www.udemy.com/certificate/UC-bd3d3705-f028-4906-897d-7b6f5872f8a2)
 
-[My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27)
+[[Udemy] My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27)
 
-[My Certificate of JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
+[[Udemy] My Certificate of JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
 
-[My Certificate of HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-952cf333-1f75-4ca1-b5d9-ecd4530ef20e)
+[[Udemy] My Certificate of HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-952cf333-1f75-4ca1-b5d9-ecd4530ef20e)
 
-[My Certificate of Learn JavaScript - For Beginners](https://www.udemy.com/certificate/UC-29f336a2-43f3-4493-b3dc-650096b0ceb7)
-
-![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
-
-[My Certificate of Introduction to HTML](https://www.sololearn.com/certificates/CC-7OVFNIK9)
-
-[My Certificate of Introduction to CSS](https://www.sololearn.com/certificates/CC-KYK3BZKO)
-
-[My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
+[[Udemy] My Certificate of Learn JavaScript - For Beginners](https://www.udemy.com/certificate/UC-29f336a2-43f3-4493-b3dc-650096b0ceb7)
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-[My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
+[[Hackerrank] My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
 
+![Solo Learn](https://img.shields.io/badge/Solo-Learn-Pink)
+
+[[Solo Learn] My Certificate of Introduction to HTML](https://www.sololearn.com/certificates/CC-7OVFNIK9)
+
+[[Solo Learn] My Certificate of Introduction to CSS](https://www.sololearn.com/certificates/CC-KYK3BZKO)
+
+[[Solo Learn] My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
+
+![Great Learning](https://img.shields.io/badge/Great-Learning-blue)
 
 
 
