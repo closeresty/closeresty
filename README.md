@@ -49,6 +49,8 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [[Solo Learn] My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
 
+![Greatlearning](https://img.shields.io/badge/Greatlearning-4285F4?style=for-the-badge&logo=Groupon)
+
 
 
 
