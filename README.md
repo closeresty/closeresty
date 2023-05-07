@@ -44,6 +44,10 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
 
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+[My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
+
 
 
 
