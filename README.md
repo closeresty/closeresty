@@ -1,4 +1,4 @@
-# Hi there! I'm Devres ツ
+# Hi there! I'm ![Reason](https://img.shields.io/badge/Restypotolin-2D2D2D?style=for-the-badge&logo=Reason) ツ
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=closeresty&show_icons=true&theme=vue" />
 
@@ -40,7 +40,7 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [[Hackerrank] My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
 
-![Solo Learn](https://img.shields.io/badge/Solo-Learn-Pink)
+![Solo Learn](https://img.shields.io/badge/Sololearn-f2cf41?style=for-the-badge&logo=Sololearn)
 
 [[Solo Learn] My Certificate of Introduction to HTML](https://www.sololearn.com/certificates/CC-7OVFNIK9)
 
@@ -48,7 +48,9 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [[Solo Learn] My Certificate of Introduction to JavaScript](https://www.sololearn.com/certificates/CC-P1MLLQF0)
 
-![Great Learning](https://img.shields.io/badge/Great-Learning-blue)
+
+
+
 
 
 
