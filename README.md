@@ -65,6 +65,7 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-878b91?style=for-the-badge&logo=Kaggle)
 
+[[Kaggle] My Certificate of Intro to SQL](https://photos.app.goo.gl/i3qe8Kjvd4DTZbGh7)
 
 
 
