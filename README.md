@@ -59,7 +59,7 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [[Great Learning] My Certificate of Front End Development - HTML](https://photos.app.goo.gl/8MS49GezPsS3ANy37)
 
-[[Great Learning] My Certificate of Front End Development - CSS](https://photos.app.goo.gl/qccDi7eSXbPoJ49a6)
+[[Great Learning] My Certificate of Front End Development - CSS](https://photos.app.goo.gl/8MS49GezPsS3ANy37)
 
 
 
