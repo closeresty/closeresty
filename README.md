@@ -57,9 +57,9 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 ![Greatlearning](https://img.shields.io/badge/Greatlearning-4285F4?style=for-the-badge&logo=Groupon)
 
-[[Great Learning] My Certificate of Front End Development - HTML](https://photos.app.goo.gl/8MS49GezPsS3ANy37)
+[[Great Learning] My Certificates of Front End Development - HTML CSS JAVASCRIPT REACTJS (4 Courses Package)](https://photos.app.goo.gl/8MS49GezPsS3ANy37)
 
-[[Great Learning] My Certificate of Front End Development - CSS](https://photos.app.goo.gl/8MS49GezPsS3ANy37)
+
 
 
 
