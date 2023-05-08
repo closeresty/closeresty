@@ -59,6 +59,12 @@ Explore the depths of my achievements and the heights of my honors below the cou
 
 [[Great Learning] My Certificates of Front End Development - HTML CSS JAVASCRIPT REACTJS (4 Courses Package)](https://photos.app.goo.gl/8MS49GezPsS3ANy37)
 
+![Hubspot](https://img.shields.io/badge/HubSpot-f5f1eb?style=for-the-badge&logo=HubSpot)
+
+[[HubSpot] My Certificate of SEO Certified](https://app.hubspot.com/academy/achievements/s8b7zb81/en/1/resty-abarera-potolin/seo)
+
+![Kaggle](https://img.shields.io/badge/Kaggle-878b91?style=for-the-badge&logo=Kaggle)
+
 
 
 
