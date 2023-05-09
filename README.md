@@ -15,21 +15,7 @@
 
 
 _____________________________________________________________________________________________
-Explore the depths of my achievements and the heights of my honors below the course badges.
-
-
-
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
-
-[[Coursera] My Certificate of Develop a Company Website with Wix](https://www.coursera.org/account/accomplishments/verify/UU2BAAZNHTXE)
-
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
-[[Freecodecamp] My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
-
-![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
-
-[[Future Learn] My Certificate of Digital Skills: Mobile (Accenture)](https://www.futurelearn.com/certificates/7e65sxp)
+Certificate [License]
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
@@ -42,6 +28,18 @@ Explore the depths of my achievements and the heights of my honors below the cou
 [[Udemy] My Certificate of HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-952cf333-1f75-4ca1-b5d9-ecd4530ef20e)
 
 [[Udemy] My Certificate of Learn JavaScript - For Beginners](https://www.udemy.com/certificate/UC-29f336a2-43f3-4493-b3dc-650096b0ceb7)
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
+
+[[Coursera] My Certificate of Develop a Company Website with Wix](https://www.coursera.org/account/accomplishments/verify/UU2BAAZNHTXE)
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+[[Freecodecamp] My Certificate of Front End Development Libraries](https://www.freecodecamp.org/certification/fcce74da124-43a2-4f49-bad3-92d5faf27337/front-end-development-libraries)
+
+![Future Learn](https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)
+
+[[Future Learn] My Certificate of Digital Skills: Mobile (Accenture)](https://www.futurelearn.com/certificates/7e65sxp)
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
