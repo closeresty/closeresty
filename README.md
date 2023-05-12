@@ -19,7 +19,7 @@ Certificate [License]
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-[[Udemy] My Certificate of Computer Networks Fundamentals](https://www.udemy.com/certificate/UC-bd3d3705-f028-4906-897d-7b6f5872f8a2)
+[[Udemy] My Certificate of Javascript Practicals Crash Course](https://www.udemy.com/certificate/UC-75d7ab3c-b2bb-4e08-87dc-0d1565afcfd6)
 
 [[Udemy] My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27)
 
