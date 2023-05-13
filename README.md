@@ -45,6 +45,8 @@ Certificate [Licenses]
 
 [[Hackerrank] My Certificate of Javascript (Intermidiate)](https://www.hackerrank.com/certificates/75d065a5098c)
 
+[[Hackerrank] My Certificate of Javascript (Basic)](https://www.hackerrank.com/certificates/iframe/847466c4c9a9)
+
 [[Hackerrank] My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
 
 ![Solo Learn](https://img.shields.io/badge/Sololearn-f0c259?style=for-the-badge&logo=Sololearn)
