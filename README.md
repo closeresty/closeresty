@@ -15,7 +15,7 @@
 
 
 _____________________________________________________________________________________________
-Certificate [License]
+Certificate [Licenses]
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
@@ -42,6 +42,8 @@ Certificate [License]
 [[Future Learn] My Certificate of Digital Skills: Mobile (Accenture)](https://www.futurelearn.com/certificates/7e65sxp)
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+[[Hackerrank] My Certificate of Javascript (Intermidiate)](https://www.hackerrank.com/certificates/75d065a5098c)
 
 [[Hackerrank] My Certificate of CSS](https://www.hackerrank.com/certificates/fa29006f5523)
 
