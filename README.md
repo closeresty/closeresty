@@ -19,11 +19,13 @@ Certificate [Licenses]
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
+[[Udemy] My Certificate of CSS & JavaScript ](https://www.udemy.com/certificate/UC-f7863794-ce5a-4b7a-9d6b-386440c9fe2e/)
+
 [[Udemy] My Certificate of Javascript Practicals Crash Course](https://www.udemy.com/certificate/UC-75d7ab3c-b2bb-4e08-87dc-0d1565afcfd6)
 
 [[Udemy] My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27)
 
-[[Udemy] My Certificate of JavaScript for Beginners - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
+[[Udemy] My Certificate of JavaScript - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
 
 [[Udemy] My Certificate of HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-952cf333-1f75-4ca1-b5d9-ecd4530ef20e)
 
