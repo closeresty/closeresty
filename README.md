@@ -11,9 +11,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-
-
 _____________________________________________________________________________________________
 Certificate [Licenses]
 
@@ -23,7 +20,6 @@ Certificate [Licenses]
 
 [[Udemy] My Certificate of Javascript Practicals Crash Course](https://www.udemy.com/certificate/UC-75d7ab3c-b2bb-4e08-87dc-0d1565afcfd6)
 
-[[Udemy] My Certificate of How the Internet Works & the Web Development Process](https://www.udemy.com/certificate/UC-e9543029-e26f-44c3-8f8d-3640395f3f27)
 
 [[Udemy] My Certificate of JavaScript - The Complete introduction to JS](https://www.udemy.com/certificate/UC-80be652e-b361-466a-8db1-9013b05f1f7b)
 
