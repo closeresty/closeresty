@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 _____________________________________________________________________________________________
-Certificate [Licenses]
+Certificate [Licenses] 28 all posted in my Linkedin
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
